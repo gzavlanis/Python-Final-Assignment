@@ -7,6 +7,14 @@ Individual files contain one function. The first function performs all data clea
 The plots folder houses all query visuals in the corresponding subfolders.
 <br/><br/>
 ### Installation
+In order to create the python virtual environment you can run:
+```
+python -m venv venv
+```
+In order to activate the virtual environment run:
+```
+venv\Scripts\activate.bat
+```
 In order to run the project just run in terminal:
 ```
 pip install -r requirements.txt
